@@ -1,6 +1,6 @@
 # to run
 # mkvirtualenv cv -p python3
-# python yolo_video.py --input videos/car_chase_01.mp4 \--output output/car_chase_01.avi --yolo yolo-coco
+# python yolo_video.py --input videos/XYZ.mp4 \--output output/XYZ.avi --yolo yolo-coco
 
 import numpy as np
 import argparse
