@@ -20,5 +20,6 @@ For Mac, you can refer https://www.learnopencv.com/install-opencv3-on-macos/
 python yolo.py --image images/XYZ.jpg --yolo yolo-coco
 
 
+
 * For Videos,</br>
 python yolo_video.py --input videos/XYZ.mp4 \--output output/XYZ.avi --yolo yolo-coco
