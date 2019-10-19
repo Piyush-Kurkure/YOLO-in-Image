@@ -1,6 +1,6 @@
 # to run
 # mkvirtualenv cv -p python3
-# python yolo.py --image images/baggage_claim.jpg --yolo yolo-coco
+# python yolo.py --image images/XYZ.jpg --yolo yolo-coco
 
 import numpy as np
 import argparse
